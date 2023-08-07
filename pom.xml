@@ -270,7 +270,7 @@
             <dependency>
                 <groupId>io.netty</groupId>
                 <artifactId>netty</artifactId>
-                <version>3.4.6.Final</version>
+                <version>3.9.8.Final</version>
             </dependency>
             <!-- TODO: [ES] javax.mail-api 1.5.2 causes gmaven plugin to fail -->
             <dependency>
